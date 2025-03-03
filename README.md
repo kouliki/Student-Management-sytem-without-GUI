@@ -2,7 +2,7 @@
 
 ## Overview
 
-The Student Management System is a system that allows users to manage student records. Users can add, view, search, update, and delete student data using a graphical user interface.
+The Student Management System is a system that allows users to manage student records. Users can add, view, search, update, and delete student data .
 
 ## Features 🌟
 
